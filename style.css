@@ -111,6 +111,7 @@ nav ul li a:hover {
 /*akhir navbar*/
 
 
+<<<<<<< HEAD
 /*content*/
 .content {
   width: 100%;
@@ -183,6 +184,34 @@ header {
   width: 30px;
 }
 /*end header*/
+=======
+/*about me*/
+.about-me {
+  margin-top: -100px;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 5px;
+  padding: 40px 0;
+
+}
+
+.about-me h3 {
+  padding: 10px;
+  border-bottom: 3px solid rgb(200,1,1);
+  width: 130px;
+  margin: 0 auto 20px;
+}
+
+.about-me p {
+  font-size: 13px;
+  width: 90%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+/*end about me*/
+>>>>>>> about
 
 
 
